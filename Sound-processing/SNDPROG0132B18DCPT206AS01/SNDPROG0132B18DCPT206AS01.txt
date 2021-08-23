@@ -1,0 +1,42 @@
+
+-----------------
+PHAM ANH TUAN
+B18DCPT206
+Copyright © 2021
+-----------------
+
+
+#Các thể loại âm nhạc ở Việt Nam
+01: POP
+	01: Save Your Tears - The Weeknd
+	02: R U Ok - Tate McRae
+	03: Way Less Sad - AJR
+	04: Funny - Zedd
+	05: Evermore - Taylor Swift
+	06: It's Ok If You Forget Me
+02: ROCK
+	07: Everglow - Coldplay
+	08: Here Comes The Sun - The Beatles
+	09: Follow You - Imagine Dragons
+	10: Baby Come Back - Player
+	11: Let It Go - James Bay
+03: Metal:
+	12: Toxicity - System Of A Down
+	13: Chop Suey! - System Of A Down
+	14: Monster - Skillet
+	15: Crawling - Linkin Park
+	16: Slipknot - Duality
+04: BLUES:
+	17: Leave The Door Open - Bruno Mars
+	18: Affection - Cigarettes After Sex
+	19: Madonna - Papa Don't Preach
+	20: Make It Rain - Ed Sheeran
+	21: I've Been Loving You Too Long - Etta James
+05: JAZZ:
+	22: My Favorite Things - John Coltrane
+	23: What A Wonderful World - Louis Armstrong
+	24: Fly Me To The Moon - Frank Sinatra
+	25: Take Five - Dave Brubeck
+	26: The Way You Look Tonight - Frank Sinatra
+
+
